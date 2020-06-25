@@ -30,7 +30,7 @@ Dies ist die Dokumentation zum Modul 300 von Cyril Whitesmith
 * Bestehende vm aus Vagrant-Cloud einrichten
 * Kennt die Vagrant-Befehle
 |Command|Erklärung|
-|-|-|
+|---|---|
 |vagrant init|Initialisiert im aktuellen Verzeichnis eine Vagrant-Umgebung und erstellt, falls nicht vorhanden, ein Vagrantfile|
 |vagrant up|Erstellt und Konfiguriert mithilfe des Vagrantfiles eine neue VM|
 |vagrant ssh|Erstellt eine SSH-Verbindung zur VM|
