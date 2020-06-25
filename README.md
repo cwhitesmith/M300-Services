@@ -41,6 +41,7 @@ Dies ist die Dokumentation zum Modul 300 von Cyril Whitesmith
 
 * Eingerichtete Umgebung ist dokumentiert (Umgebungs-Variablen, Netzwerkplan gezeichnet, Sicherheitsaspekte)
 * Funktionsweise getestet inkl. Dokumentation der Testfälle
+  * Testfälle
 * andere, vorgefertigte vm auf eigenem Notebook aufgesetzt
 * Projekt mit Git und Mark Down dokumentiert"
 
