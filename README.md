@@ -29,15 +29,15 @@ Dies ist die Dokumentation zum Modul 300 von Cyril Whitesmith
 ### K3 - Vagrant
 * Bestehende vm aus Vagrant-Cloud einrichten
 * Kennt die Vagrant-Befehle
-|Command|Erklärung|
-|---|---|
-|vagrant init|Initialisiert im aktuellen Verzeichnis eine Vagrant-Umgebung und erstellt, falls nicht vorhanden, ein Vagrantfile|
-|vagrant up|Erstellt und Konfiguriert mithilfe des Vagrantfiles eine neue VM|
-|vagrant ssh|Erstellt eine SSH-Verbindung zur VM|
-|vagrant status|Zeigt den momentan Status der VM an|
-|vagrant port|Zeigt die weitergeleiteten Ports an|
-|vagrant halt|Stoppt die laufende VM.|
-|vagrant destroy|Stoppt die VM und löscht sie.|
+| Command | Erklärung |
+| --- | --- |
+| vagrant init | Initialisiert im aktuellen Verzeichnis eine Vagrant-Umgebung und erstellt, falls nicht vorhanden, ein Vagrantfile. |
+| vagrant up | Erstellt und Konfiguriert mithilfe des Vagrantfiles eine neue VM |
+| vagrant ssh | Erstellt eine SSH-Verbindung zur VM. |
+| vagrant status | Zeigt den momentan Status der VM an. |
+| vagrant port | Zeigt die weitergeleiteten Ports an. |
+| vagrant halt | Stoppt die laufende VM. |
+| vagrant destroy | Stoppt die VM und löscht sie. |
 
 * Eingerichtete Umgebung ist dokumentiert (Umgebungs-Variablen, Netzwerkplan gezeichnet, Sicherheitsaspekte)
 * Funktionsweise getestet inkl. Dokumentation der Testfälle
