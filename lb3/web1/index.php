@@ -1,10 +1,10 @@
 <html>
     <head>
-        <title>Web 1</title>
+        <title>Webserver</title>
     </head>
 
     <body>
-        <h1>Web 1</h1>
+        <h1>Webserver</h1>
         <ul>
             <?php
 
