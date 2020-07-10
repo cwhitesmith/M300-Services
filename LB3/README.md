@@ -3,7 +3,6 @@
 Dies ist die Dokumentation zur LB3
 
 ## Was wurde gemacht
-![netzplan_lb3](assets/netzplan_lb3.PNG)
 Ich habe mithilfe von docker-compose zwei Container erstellt. Auf dem Web Container befindet sich ein Apache Webserver. Auf dem Content Container ist python installiert. Im Content Container befindet sich ausserdem ein Pythonscript, welches den Content der Webseite vom Web Container  beinhaltet. Wenn nun ein Webrequest auf dem Web Container eintrifft, sendet dieser einen GET-Request an den Content Container. Welcher wiederum den Inhalt inform eines JSON Arrays, an den Web Container zurück sendet. Nun kann der Web Container dieses Array auf der Webseite wiedergeben.
 
 ## Bewertungskriterien LB3
